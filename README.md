@@ -14,7 +14,7 @@ Note that the override\* examples assume that the local LLVM binaries have some 
 
 ## How to run Vitis HLS project examples
 1. Build local LLVM and/or custom passes.
-2. Install [Xilinx Vitis HLS](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vitis/2022-2.html)
+2. Install [Xilinx Vitis HLS](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vitis/2022-3-1.html)
 3. Source Xilinx Vitis_HLS settings64.sh/csh. 
 4. Run the following from within the example's directory:
 ```
@@ -57,4 +57,5 @@ Within the `::LLVM_CUSTOM_CMD` variable value you may reference any environment 
 
 
 Copyright 2016-2022 Xilinx, Inc.
+Copyright (C) 2023, Advanced Micro Devices, Inc.
 SPDX-License-Identifier: Apache-2.0
